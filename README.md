@@ -17,7 +17,7 @@ Back when I had free time, my favorite hobbies were origami and chainmail.  I ho
 * [Android Hello World](https://github.com/semartinez147/hello-world-android).  A classic!
 * [Fizz-Buzz](https://github.com/semartinez147/fizz-buzz) implementation.
 * [Guess-a-Number and Number-guessing](https://github.com/semartinez147/guess-number) Flowgorithm projects.
-* [Card Trick](https://semartinez147.github.io/cards/) command line program.
+* [Card Trick](https://github.com/semartinez147/cards) command line program.
 
 
 #### Personal projects
