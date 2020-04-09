@@ -10,6 +10,8 @@ When Verizon made me a severance offer I couldn't refuse, I took a leap of faith
 
 Back when I had free time, my favorite hobbies were origami and chainmail.  I hope to pick papers and pliers up again later this year.
 
+You can find me on [LinkedIn](http://linkedin.com/in/semartinez147).
+
 ## Projects
 
 #### Class assignments
