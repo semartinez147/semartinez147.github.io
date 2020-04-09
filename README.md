@@ -14,12 +14,13 @@ Back when I had free time, my favorite hobbies were origami and chainmail.  I ho
 
 #### Class assignments
 
-* [Android Hello World](https://github.com/semartinez147/hello-world-android).  A classic!
 * [Fizz-Buzz](https://github.com/semartinez147/fizz-buzz) implementation.
 * [Guess-a-Number and Number-guessing](https://github.com/semartinez147/guess-number) Flowgorithm projects.
 * [Card Trick](https://github.com/semartinez147/cards) command line program.
+* More examples of indpendent problem-solving will be added soon
 
+# Android development projects
 
-#### Personal projects
+* [Choppit](https://semartinez147.github.io/choppit), my individual project at CNM Deep Dive.
 
-* [Choppit](https://semartinez147.github.io/choppit) (in progress)
+* [Scavengr](https://staj-scavengr.github.io), a Deep Dive team project.
