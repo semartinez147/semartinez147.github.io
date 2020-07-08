@@ -1,5 +1,8 @@
 I'm a software developer with background in mobile device support and troubleshooting, proficient with Java for Android development and database management.  I have experience with individual, group and leadership roles and a reputation for building positive culture and inspiring collaboration through service leadership, effective teamwork, and strong communication skills.
 
+Please download my [resume](resume.pdf), find me on [LinkedIn](http://linkedin.com/in/semartinez147) or peruse my GitHub repositories below.
+
+
 ---
 
 ## Recent Experiences
@@ -32,7 +35,6 @@ When Verizon made me a severance offer I couldn't refuse, I took a leap of faith
 My short term goals are to get my Java certification (when testing centers reopen) and find a job that will support my ongoing development and let me support my family.
 
 
-You can find me on [LinkedIn](http://linkedin.com/in/semartinez147) or peruse my GitHub repositories below.
 
 ## Projects
 
