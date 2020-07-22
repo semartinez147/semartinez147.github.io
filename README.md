@@ -43,10 +43,14 @@ My short term goals are to get my Java certification (when testing centers reope
 * [Fizz-Buzz](https://github.com/semartinez147/fizz-buzz) implementation.
 * [Guess-a-Number and Number-guessing](https://github.com/semartinez147/guess-number) Flowgorithm projects.
 * [Card Trick](https://github.com/semartinez147/cards) command line program.
-* More examples of indpendent problem-solving will be added soon
+
+#### Independent exercies 
+
+* [String problems](https://github.com/semartinez147/examples/blob/master/src/com/semartinez/Strings.java) with [unit tests ](https://github.com/semartinez147/examples/blob/master/test/com/semartinez/StringsTest.java)
+* [Array problems](https://github.com/semartinez147/examples/blob/master/src/com/semartinez/Arrays.java) with [unit tests](https://github.com/semartinez147/examples/blob/master/test/com/semartinez/ArraysTest.java).
 
 # Android development projects (ongoing)
 
-* [Choppit](https://semartinez147.github.io/choppit), my individual project at CNM Deep Dive.
+* [Choppit](https://www.semartinez.com/choppit/), my individual project at CNM Deep Dive.
 
 * [Scavengr](https://staj-scavengers.github.io/), a Deep Dive team project.
