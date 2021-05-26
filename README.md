@@ -2,7 +2,7 @@
 
 ### Android development projects (ongoing)
 
-* [Choppit](https://www.semartinez.com/choppit/), my individual project at CNM Deep Dive.
+* [Choppit](https://semartinez147.github.io/choppit/), my individual project at CNM Deep Dive.
 
 * [Scavengr](https://staj-scavengers.github.io/), a Deep Dive team project.
 
